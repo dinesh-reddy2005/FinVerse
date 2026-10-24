@@ -1,0 +1,150 @@
+branch_id,bank_branch,state,city
+1,Korba Branch,Chhattisgarh,Korba
+2,Car Nicobar Branch,Andaman and Nicobar Islands,Car Nicobar
+3,Diglipur Branch,Andaman and Nicobar Islands,Diglipur
+4,Port Blair Branch,Andaman and Nicobar Islands,Port Blair
+5,Guntur Branch,Andhra Pradesh,Guntur
+6,Nellore Branch,Andhra Pradesh,Nellore
+7,Tirupati Branch,Andhra Pradesh,Tirupati
+8,Vijayawada Branch,Andhra Pradesh,Vijayawada
+9,Visakhapatnam Branch,Andhra Pradesh,Visakhapatnam
+10,Itanagar Branch,Arunachal Pradesh,Itanagar
+11,Naharlagun Branch,Arunachal Pradesh,Naharlagun
+12,Tawang Branch,Arunachal Pradesh,Tawang
+13,Ziro Branch,Arunachal Pradesh,Ziro
+14,Dibrugarh Branch,Assam,Dibrugarh
+15,Guwahati Branch,Assam,Guwahati
+16,Jorhat Branch,Assam,Jorhat
+17,Nagaon Branch,Assam,Nagaon
+18,Silchar Branch,Assam,Silchar
+19,Bhagalpur Branch,Bihar,Bhagalpur
+20,Gaya Branch,Bihar,Gaya
+21,Munger Branch,Bihar,Munger
+22,Muzaffarpur Branch,Bihar,Muzaffarpur
+23,Patna Branch,Bihar,Patna
+24,Chandigarh Branch,Chandigarh,Chandigarh
+25,Bilaspur Branch,Chhattisgarh,Bilaspur
+26,Durg Branch,Chhattisgarh,Durg
+27,Jagdalpur Branch,Chhattisgarh,Jagdalpur
+28,Korba Branch,Chhattisgarh,Korba
+29,Raipur Branch,Chhattisgarh,Raipur
+30,Daman Branch,Dadra and Nagar Haveli and Daman and Diu,Daman
+31,Diu Branch,Dadra and Nagar Haveli and Daman and Diu,Diu
+32,Silvassa Branch,Dadra and Nagar Haveli and Daman and Diu,Silvassa
+33,East Delhi Branch,Delhi,East Delhi
+34,New Delhi Branch,Delhi,New Delhi
+35,North Delhi Branch,Delhi,North Delhi
+36,South Delhi Branch,Delhi,South Delhi
+37,West Delhi Branch,Delhi,West Delhi
+38,Mapusa Branch,Goa,Mapusa
+39,Margao Branch,Goa,Margao
+40,Panaji Branch,Goa,Panaji
+41,Vasco da Gama Branch,Goa,Vasco da Gama
+42,Ahmedabad Branch,Gujarat,Ahmedabad
+43,Bhavnagar Branch,Gujarat,Bhavnagar
+44,Rajkot Branch,Gujarat,Rajkot
+45,Surat Branch,Gujarat,Surat
+46,Vadodara Branch,Gujarat,Vadodara
+47,Ambala Branch,Haryana,Ambala
+48,Chandigarh Branch,Haryana,Chandigarh
+49,Faridabad Branch,Haryana,Faridabad
+50,Gurugram Branch,Haryana,Gurugram
+51,Hisar Branch,Haryana,Hisar
+52,Kangra Branch,Himachal Pradesh,Kangra
+53,Kullu Branch,Himachal Pradesh,Kullu
+54,Manali Branch,Himachal Pradesh,Manali
+55,Shimla Branch,Himachal Pradesh,Shimla
+56,Bokaro Branch,Jharkhand,Bokaro
+57,Dhanbad Branch,Jharkhand,Dhanbad
+58,Hazaribagh Branch,Jharkhand,Hazaribagh
+59,Jamshedpur Branch,Jharkhand,Jamshedpur
+60,Ranchi Branch,Jharkhand,Ranchi
+61,Bangalore Branch,Karnataka,Bangalore
+62,Belgaum Branch,Karnataka,Belgaum
+63,Hubli Branch,Karnataka,Hubli
+64,Mangalore Branch,Karnataka,Mangalore
+65,Mysore Branch,Karnataka,Mysore
+66,Kochi Branch,Kerala,Kochi
+67,Kottayam Branch,Kerala,Kottayam
+68,Kozhikode Branch,Kerala,Kozhikode
+69,Thiruvananthapuram Branch,Kerala,Thiruvananthapuram
+70,Trichur Branch,Kerala,Trichur
+71,Kavaratti Branch,Lakshadweep,Kavaratti
+72,Bhopal Branch,Madhya Pradesh,Bhopal
+73,Gwalior Branch,Madhya Pradesh,Gwalior
+74,Indore Branch,Madhya Pradesh,Indore
+75,Jabalpur Branch,Madhya Pradesh,Jabalpur
+76,Ujjain Branch,Madhya Pradesh,Ujjain
+77,Aurangabad Branch,Maharashtra,Aurangabad
+78,Mumbai Branch,Maharashtra,Mumbai
+79,Nagpur Branch,Maharashtra,Nagpur
+80,Nashik Branch,Maharashtra,Nashik
+81,Pune Branch,Maharashtra,Pune
+82,Churachandpur Branch,Manipur,Churachandpur
+83,Imphal Branch,Manipur,Imphal
+84,Kangpokpi Branch,Manipur,Kangpokpi
+85,Thoubal Branch,Manipur,Thoubal
+86,Jowai Branch,Meghalaya,Jowai
+87,Nongstoin Branch,Meghalaya,Nongstoin
+88,Shillong Branch,Meghalaya,Shillong
+89,Tura Branch,Meghalaya,Tura
+90,Aizawl Branch,Mizoram,Aizawl
+91,Champhai Branch,Mizoram,Champhai
+92,Kolasib Branch,Mizoram,Kolasib
+93,Lunglei Branch,Mizoram,Lunglei
+94,Dimapur Branch,Nagaland,Dimapur
+95,Kohima Branch,Nagaland,Kohima
+96,Mokokchung Branch,Nagaland,Mokokchung
+97,Wokha Branch,Nagaland,Wokha
+98,Berhampur Branch,Odisha,Berhampur
+99,Bhubaneswar Branch,Odisha,Bhubaneswar
+100,Cuttack Branch,Odisha,Cuttack
+101,Rourkela Branch,Odisha,Rourkela
+102,Sambalpur Branch,Odisha,Sambalpur
+103,Karaikal Branch,Puducherry,Karaikal
+104,Mahe Branch,Puducherry,Mahe
+105,Puducherry Branch,Puducherry,Puducherry
+106,Yanam Branch,Puducherry,Yanam
+107,Amritsar Branch,Punjab,Amritsar
+108,Chandigarh Branch,Punjab,Chandigarh
+109,Jalandhar Branch,Punjab,Jalandhar
+110,Ludhiana Branch,Punjab,Ludhiana
+111,Patiala Branch,Punjab,Patiala
+112,Ajmer Branch,Rajasthan,Ajmer
+113,Jaipur Branch,Rajasthan,Jaipur
+114,Jodhpur Branch,Rajasthan,Jodhpur
+115,Kota Branch,Rajasthan,Kota
+116,Udaipur Branch,Rajasthan,Udaipur
+117,Gangtok Branch,Sikkim,Gangtok
+118,Jorethang Branch,Sikkim,Jorethang
+119,Mangan Branch,Sikkim,Mangan
+120,Namchi Branch,Sikkim,Namchi
+121,Chennai Branch,Tamil Nadu,Chennai
+122,Coimbatore Branch,Tamil Nadu,Coimbatore
+123,Madurai Branch,Tamil Nadu,Madurai
+124,Salem Branch,Tamil Nadu,Salem
+125,Trichy Branch,Tamil Nadu,Trichy
+126,Hyderabad Branch,Telangana,Hyderabad
+127,Karimnagar Branch,Telangana,Karimnagar
+128,Khammam Branch,Telangana,Khammam
+129,Nizamabad Branch,Telangana,Nizamabad
+130,Warangal Branch,Telangana,Warangal
+131,Agartala Branch,Tripura,Agartala
+132,Ambassa Branch,Tripura,Ambassa
+133,Dharmanagar Branch,Tripura,Dharmanagar
+134,Udaipur Branch,Tripura,Udaipur
+135,Agra Branch,Uttar Pradesh,Agra
+136,Kanpur Branch,Uttar Pradesh,Kanpur
+137,Lucknow Branch,Uttar Pradesh,Lucknow
+138,Meerut Branch,Uttar Pradesh,Meerut
+139,Varanasi Branch,Uttar Pradesh,Varanasi
+140,Dehradun Branch,Uttarakhand,Dehradun
+141,Haldwani Branch,Uttarakhand,Haldwani
+142,Haridwar Branch,Uttarakhand,Haridwar
+143,Nainital Branch,Uttarakhand,Nainital
+144,Rishikesh Branch,Uttarakhand,Rishikesh
+145,Asansol Branch,West Bengal,Asansol
+146,Durgapur Branch,West Bengal,Durgapur
+147,Howrah Branch,West Bengal,Howrah
+148,Kolkata Branch,West Bengal,Kolkata
+149,Siliguri Branch,West Bengal,Siliguri
